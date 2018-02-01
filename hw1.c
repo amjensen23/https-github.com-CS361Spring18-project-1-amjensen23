@@ -11,7 +11,7 @@ int main()
 
     fscanf(fptr,"%s", &netid);
 	
-	printf(netid);
+	printf("%s",netid);
 	fclose(fptr); 
 	
 	return 0;
