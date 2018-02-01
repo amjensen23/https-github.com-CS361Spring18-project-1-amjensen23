@@ -22,5 +22,7 @@ int main()
   
   us[0]=0;
   
-  return us;
+  all(1, us[0], 1);
+  
+  return 0;
 }
