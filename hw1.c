@@ -15,7 +15,7 @@ int your;
 
 char cs361()
 {
-  char are;
+  char are='a';
   return are;
 }
 
