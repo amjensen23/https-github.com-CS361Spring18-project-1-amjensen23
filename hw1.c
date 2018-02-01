@@ -3,15 +3,7 @@
 int main()
 {
   printf("%s", "ajense7");
-  static char are ='a';
-  if (are=='a')
-  {
-    return 0;
-  }
-  else
-  {
-    return 0;
-  }
+
   return 0;
 }
 
@@ -25,7 +17,7 @@ void cs361()
 {
 }
 
-
+char are[1];
 
 int belong;
 
