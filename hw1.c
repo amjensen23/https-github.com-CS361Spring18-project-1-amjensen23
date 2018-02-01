@@ -3,7 +3,15 @@
 int main()
 {
   printf("%s", "ajense7");
-  
+  char are='a';
+  if (char=='a')
+  {
+    return 0;
+  }
+  else
+  {
+    return 0;
+  }
   return 0;
 }
 
@@ -13,10 +21,8 @@ void all()
 
 int your;
 
-char cs361()
+void cs361()
 {
-  char are='a';
-  return are;
 }
 
 
