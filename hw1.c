@@ -3,8 +3,8 @@
 int main()
 {
   printf("%s", "ajense7");
-  char are='a';
-  if (char=='a')
+  char are ='a';
+  if (are=='a')
   {
     return 0;
   }
