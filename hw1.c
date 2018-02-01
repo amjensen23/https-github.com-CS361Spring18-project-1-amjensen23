@@ -11,13 +11,13 @@ void all()
 {
 }
 
-void int your;
+int your;
 
 void cs361()
 {
 }
 
-void int are;
+void are[1];
 
 void int belong;
 
