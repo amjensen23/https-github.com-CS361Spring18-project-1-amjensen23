@@ -20,5 +20,7 @@ int main()
    
   int us[37];
   
+  us[0]=0;
+  
   return 0;
 }
