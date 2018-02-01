@@ -15,9 +15,10 @@ int your;
 
 void cs361()
 {
+  char are;
 }
 
-char are;
+
 
 int belong;
 
