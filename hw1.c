@@ -17,10 +17,10 @@ void cs361()
 {
 }
 
-void are[1];
+char are;
 
-void int belong;
+int belong;
 
-void int to;
+int to;
 
-void int us[37];
+int us[37];
