@@ -13,9 +13,10 @@ void all()
 
 int your;
 
-void cs361()
+char cs361()
 {
   char are;
+  return are
 }
 
 
@@ -24,4 +25,4 @@ int belong;
 
 int to;
 
-int us[37];
+char us[37];
