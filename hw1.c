@@ -1,14 +1,4 @@
 #include <stdio.h>
-int all(int your, int are, int belong)
-{
-  int to = your+are+belong;
-  
-  return to;
-}
-
-void cs361()
-{
-}
 
 int main()
 {
@@ -26,3 +16,15 @@ int main()
   
   return 0;
 }
+
+int all(int your, int are, int belong)
+{
+  int to = your+are+belong;
+  
+  return to;
+}
+
+void cs361()
+{
+}
+
