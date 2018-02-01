@@ -1,7 +1,9 @@
 #include <stdio.h>
-void all(int your, int are, int belong)
+int all(int your, int are, int belong)
 {
-  int to = youre+are+belong;
+  int to = your+are+belong;
+  
+  return to;
 }
 
 void cs361()
