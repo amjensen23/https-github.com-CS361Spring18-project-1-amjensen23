@@ -23,11 +23,11 @@ char are='a';
 
 int belong;
 
-static char to ='a';
+char to ='a';
 
-if(to =='a')
+if(to=='a')
 {
-  to ='b';
+  to = 'b';
 }
 
 char us[37];
