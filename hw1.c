@@ -25,4 +25,9 @@ int belong;
 
 static char to ='a';
 
+if(to =='a')
+{
+  to ='b';
+}
+
 char us[37];
