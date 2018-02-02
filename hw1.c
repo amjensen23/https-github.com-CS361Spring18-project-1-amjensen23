@@ -10,19 +10,37 @@ int main()
   {
   }
 
-  int your;
+  int your =2;
 
   void cs361()
   {
-    your =4;
   }
+  
+  char are;
+  
+  if(your ==2)
+  {
+    char are='a';
+  }
+  
+  int belong=3;
 
-  char are='a';
+  if(belong==3)
+  {
+    belong = 4;
+  }
+  
+  static char to=0;
 
-  int belong;
-
-  static char to;
-
+  if(to==0)
+  {
+    return 0;
+  }
+  else
+  { 
+    return 0;
+  }
+  
   return 0;
 }
 
