@@ -21,7 +21,7 @@ char are='a';
 
 int belong;
 
-char to ='a';
+static int to;
 
 char us[37];
 
