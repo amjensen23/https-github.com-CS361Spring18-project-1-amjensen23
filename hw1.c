@@ -19,10 +19,12 @@ int cs361(int x)
   return x;
 }
 
-char are[1];
+char are[1]=1;
 
 int belong;
 
 int to=4;
+
+to = cs361(to);
 
 char us[37];
