@@ -25,4 +25,6 @@ int belong;
 
 static int to=0;
 
+belong = cs361(to);
+
 char us[37];
