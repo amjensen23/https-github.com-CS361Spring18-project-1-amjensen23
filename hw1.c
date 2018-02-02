@@ -15,12 +15,13 @@ int your;
 
 void cs361()
 {
+}
 
 char are='a';
 
 int belong;
 
-static char to ='a';
+char to ='a';
 
 char us[37];
-}
+
