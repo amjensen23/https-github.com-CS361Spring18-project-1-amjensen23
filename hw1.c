@@ -13,11 +13,11 @@ void all()
 
 int your;
 
+static int to=0;
 void cs361()
 {
   int belong=3;
   
-  static int to=0;
   if(to==0)
   {
     if(belong==3)
