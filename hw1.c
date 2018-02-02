@@ -11,7 +11,7 @@ void all()
 {
 }
 
-int your=2;
+int your;
 
 void cs361()
 {
