@@ -13,9 +13,10 @@ void all()
 
 int your;
 
-void cs361(char x)
+char cs361(char x)
 {
   x='A';
+  return x;
 }
 
 char are[1];
