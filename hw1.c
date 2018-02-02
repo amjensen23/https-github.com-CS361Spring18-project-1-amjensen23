@@ -19,10 +19,10 @@ int cs361(int x)
   return x;
 }
 
-char are[1]=' ';
+char are='a';
 
 int belong;
 
-int to=cs361(2);
+static char to ='a';
 
 char us[37];
