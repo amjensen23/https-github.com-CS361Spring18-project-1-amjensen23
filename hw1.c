@@ -22,7 +22,7 @@ int main()
 
   static char to;
 
-  char us[37];
-
   return 0;
 }
+
+char us[37];
