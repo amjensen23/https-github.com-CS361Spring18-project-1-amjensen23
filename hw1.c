@@ -23,8 +23,6 @@ char are[1];
 
 int belong;
 
-int to;
-
-to=cs361(to);
+int to=4;
 
 char us[37];
