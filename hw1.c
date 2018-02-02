@@ -13,7 +13,7 @@ void all()
 
 int your;
 
-char cs361(char x)
+char cs361(char x[1])
 {
   x='A';
   return x;
