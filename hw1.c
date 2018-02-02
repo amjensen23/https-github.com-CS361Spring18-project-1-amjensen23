@@ -16,14 +16,14 @@ int main()
   {
   }
   
-  char are;
+  char are='a';
   
   if(your ==2)
   {
-    char are='a';
+    char are='c';
   }
   
-  if(are=='a')
+  if(are=='c')
   {
     are = 'b';
   }
