@@ -9,11 +9,9 @@ int main()
 
 void all()
 {
-  static int your =2;
-  if(your==2)
-  {
-  }
 }
+
+int your=2;
 
 void cs361()
 {
