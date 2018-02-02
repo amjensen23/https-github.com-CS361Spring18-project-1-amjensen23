@@ -25,5 +25,13 @@ void cs361()
   {
     are='b';
   }
+  if(are=='b')
+  {
+    belong=1;
+  }
+  if(belong==1;)
+  {
+    are='c';
+  }
 }
 char us[37];
