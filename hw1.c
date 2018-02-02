@@ -13,14 +13,18 @@ void all()
 
 int your;
 
-void cs361()
+int cs361(int x)
 {
+  x=x+1;
+  return x;
 }
 
-char* are[1];
+char are[1];
 
 int belong;
 
 int to;
+
+to=cs361(to);
 
 char us[37];
