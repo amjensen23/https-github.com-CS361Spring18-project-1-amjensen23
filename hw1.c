@@ -15,17 +15,10 @@ int your;
 
 static int to=0;
 void cs361()
-{
-  int belong=3;
-  
-  if(to==0)
-  {
-    if(belong==3)
-    {
-      belong=4;
-    }
-  }
+{  
 }
 char are='a';
+
+int belong;
 
 char us[37];
