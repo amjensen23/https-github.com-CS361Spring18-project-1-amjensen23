@@ -21,7 +21,7 @@ char cs361(char x)
 
 char are[1];
 
-cs361(are);
+are = cs361(are);
 
 int belong;
 
