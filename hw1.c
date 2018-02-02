@@ -14,6 +14,7 @@ int main()
 
   void cs361()
   {
+    your =4;
   }
 
   char are='a';
