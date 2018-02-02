@@ -20,7 +20,7 @@ int main()
   
   if(your ==2)
   {
-    char are='c';
+    are='c';
   }
   
   if(are=='c')
