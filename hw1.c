@@ -23,6 +23,6 @@ char are='a';
 
 int belong;
 
-char to ='a';
+int to =4;
 
 char us[37];
