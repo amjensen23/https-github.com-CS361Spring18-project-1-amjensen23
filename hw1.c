@@ -25,7 +25,7 @@ int main()
   
   if(are=='a')
   {
-    are = 'b'
+    are = 'b';
   }
   
   int belong=3;
