@@ -13,15 +13,11 @@ void all()
 
 int your;
 
-char cs361(char x[1])
+void cs361()
 {
-  x='A';
-  return x;
 }
 
-char are[1];
-
-are = cs361(are);
+char* are[1];
 
 int belong;
 
