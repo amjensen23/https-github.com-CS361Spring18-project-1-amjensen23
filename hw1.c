@@ -20,13 +20,9 @@ void cs361()
   static int to=0;
   if(to==0)
   {
-    if(are=='a')
+    if(belong==3)
     {
-      if(belong==3)
-      {
-        are ='b';
-        belong=4;
-      }
+      belong=4;
     }
   }
 }
