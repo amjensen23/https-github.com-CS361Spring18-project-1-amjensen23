@@ -25,8 +25,14 @@ void cs361()
   static int to=0;
   if(to==0)
   {
-    are ='b';
-    belong=4;
+    if(are=='a')
+    {
+      if(belong==3)
+      {
+        are ='b';
+        belong=4;
+      }
+    }
   }
 }
 char us[37];
