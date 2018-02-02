@@ -15,9 +15,6 @@ int your;
 
 void cs361()
 {
-
-  char are='a';
-   
   int belong=3;
   
   static int to=0;
@@ -33,4 +30,6 @@ void cs361()
     }
   }
 }
+char are='a';
+
 char us[37];
