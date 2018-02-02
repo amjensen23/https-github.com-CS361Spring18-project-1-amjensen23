@@ -17,7 +17,7 @@ void cs361()
 {
 }
 
-static char are[1];
+char are[1]='a';
 
 int belong;
 
