@@ -17,12 +17,16 @@ void all()
 
 void cs361()
 {
-}
 
-char are='a';
+  char are='a';
    
-int belong=3;
+  int belong=3;
   
-static char to=0;
-  
+  static int to=0;
+  if(to==0)
+  {
+    are ='b';
+    belong=4;
+  }
+}
 char us[37];
