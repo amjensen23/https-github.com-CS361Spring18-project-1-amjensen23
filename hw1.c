@@ -13,19 +13,15 @@ void all()
 
 int your;
 
-int cs361(int to)
+void cs361()
 {
-  to = 0;
-  return to;
 }
 
 char are='a';
 
 int belong;
 
-static int to=0;
-
-to = cs361(to);
+static to;
 
 char us[37];
 
