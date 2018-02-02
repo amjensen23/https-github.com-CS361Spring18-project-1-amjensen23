@@ -23,6 +23,11 @@ int main()
     char are='a';
   }
   
+  if(are=='a')
+  {
+    are = 'b'
+  }
+  
   int belong=3;
 
   if(belong==3)
