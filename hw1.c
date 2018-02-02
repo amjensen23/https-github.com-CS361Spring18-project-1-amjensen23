@@ -29,7 +29,7 @@ void cs361()
   {
     belong=1;
   }
-  if(belong==1;)
+  if(belong==1)
   {
     are='c';
   }
